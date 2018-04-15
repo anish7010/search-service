@@ -2,7 +2,7 @@ package com.offershopper.searchservice.service;
 
 
 
-public class searchService {
+public class SearchService {
 
 	  /**
 	   * Calculates the similarity (a number within 0 and 1) between two strings.
